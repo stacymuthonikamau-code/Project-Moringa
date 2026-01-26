@@ -1,0 +1,50 @@
+@media screen and (min-width: 768px){
+    body{
+        background-color: whitesmoke;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin: 10px auto;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px){
+    body{
+        background-color: white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin: 10px auto;
+    }
+}
+
+h1{
+    text-align: center;
+    background-color: grey;
+    padding: 20px;
+    margin-bottom: 100px;
+    margin-top: 0;
+}
+label, input{
+    display: block;
+}
+form{
+    background-color: lightgrey;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 5px;
+    border: 2px solid grey;
+    margin: 0 auto;
+}
+button{
+    background-color: black;
+    padding: 5px;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: grey;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+button:visited {
+    color: wheat;
+}

@@ -1,0 +1,35 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: grey;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div ul{
+    list-style-type: none;
+    text-align: center;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+}
+nav ul li a {
+    text-decoration: none;
+    color: rgb(14, 1, 1);
+    display :flex;
+    font-weight: bold;
+    padding: 8px 14px;        
+    border-radius: 6px;     
+    transition: all 0.3s ease;
+}
+
+
+nav ul li a:hover {
+    background-color: #222;
+    color: #fff;
+    transform: scale(1.05); 
+}
