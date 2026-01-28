@@ -24,6 +24,9 @@
 -To download the project files from GitHub:
 git clone https://github.com/stacymuthonikamau-code/Project-Moringa.git
 
+## Live site
+-live site: https://stacymuthonikamau-code.github.io/Project-Moringa/ 
+
 ## Installation Requirements
 -Git
 -Web browser (Chrome, Firefox, Edge, etc.)
