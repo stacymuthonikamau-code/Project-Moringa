@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Date: 2025/12/01
 # By: Stacy Muthoni Kamau
 
@@ -45,3 +46,4 @@ git clone https://github.com/stacymuthonikamau-code/Project-Moringa.git
 ## Languages
 -HTML
 -CSS
+=======
