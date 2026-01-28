@@ -9,9 +9,18 @@
 
 ## Features
 -Responsive multi-page layout
--Image gallery for showcasing photos
 -Navigation between pages (Home, About, Gallery, Contact)
 -Clean and simple design for easy browsing
+-It has registration link that directs to a registartion site where you file a form
+-On submission a success site pops up with a button to go back home
+-You can go back home on prssing the button
+-It has an about page informing about the photography community accessible through links on the navigation bar
+-A beautiful gallery accessible through the navigation bar.
+-Contact line accessible on the navigation bar
+-NOTE: the gallery and contacts is on a seperate tab
+-There is a log in page for members of the photgraphy community on the link at the bottom of the home page
+-After submitting the log in form, one is redirecte dback home
+-The registration and log in details are also accessible through the about site
 
 ## Learning Goals
 -Practice structuring multi-page websites
