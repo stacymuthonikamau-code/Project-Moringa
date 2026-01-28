@@ -35,7 +35,7 @@
 git clone https://github.com/stacymuthonikamau-code/Project-Moringa.git
 
 ## Live site
--live site:  
+-live site: https://stacymuthonikamau-code.github.io/Project-Moringa/ 
 
 ## Installation Requirements
 -Git
