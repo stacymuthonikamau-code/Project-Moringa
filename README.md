@@ -21,6 +21,7 @@
 -There is a log in page for members of the photgraphy community on the link at the bottom of the home page
 -After submitting the log in form, one is redirecte dback home
 -The registration and log in details are also accessible through the about site
+-The contacts page has clickable links that redirect you to respective contact sites such as whatsapp and instagram and mail
 
 ## Learning Goals
 -Practice structuring multi-page websites
@@ -34,7 +35,7 @@
 git clone https://github.com/stacymuthonikamau-code/Project-Moringa.git
 
 ## Live site
--live site: https://stacymuthonikamau-code.github.io/Project-Moringa/ 
+-live site:  
 
 ## Installation Requirements
 -Git
