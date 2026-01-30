@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Date: 2025/12/01
 # By: Stacy Muthoni Kamau
 
@@ -44,11 +43,6 @@ git clone https://github.com/stacymuthonikamau-code/Project-Moringa.git
 ## Installation Instructions
 -cd Project-Moringa
 -open index.html
-
-## Technologies Used
--HTML5
--CSS3
--Git & GitHub
 
 ## Support and Contact Details
 -GitHub: https://github.com/stacymuthonikamau-code
